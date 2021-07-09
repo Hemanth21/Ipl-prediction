@@ -1,0 +1,32 @@
+{
+  "name": "calculo",
+  "version": "0.0.1-alpha",
+  "description": "IPL match prediction with custom dataset manipulation and biasing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Brain.js",
+    "TensorFlow.js",
+    "Express",
+    "React"
+  ],
+  "author": "Aravi",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.2.7",
+    "acorn": "^6.0.0",
+    "body-parser": "^1.19.0",
+    "brain.js": "^2.0.0-alpha.2",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "ml-cart": "^2.0.0",
+    "ml-fnn": "^5.0.0",
+    "ml-random-forest": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}
