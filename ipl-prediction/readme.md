@@ -3,7 +3,6 @@ IPL Match Prediction - Calculo-alpha Server
 
 Calculo is powered by Node.js and writen purely in JavaScript.
 
-##### Developed by YesWeB (aka) Bhalaji SV
 
 #### Important Node Modules Used
 --------------------------------
